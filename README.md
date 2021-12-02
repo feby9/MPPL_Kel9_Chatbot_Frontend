@@ -30,8 +30,19 @@ Create any type of chatbot you want with LINE Bot Designer.
 ![](/images/picture3.png)
 
 # Deskripsi Singkat Aplikasi
+[`^ kembali ke atas ^`](#)
 
 IPB Chatbot atau Ibot yang merupakan sebuah aplikasi Chatbot yang terintegrasi dengan instant messenger populer, yakni LINE Messenger, dan dapat membantu mahasiswa serta calon mahasiswa IPB dalam mencari informasi seputar kampus IPB dengan lebih mudah.
 
 ## Latar Belakang
 Mahasiswa baru seringkali mengalami kesulitan dalam mencari informasi seputar kampus IPB Dramaga. Hal ini disebabkan karena ketidaktahuan dan kendala lain seperti sulitnya mencari orang dekat yang mengetahui, waktu respon yang lama dari akun sosial media resmi ipb, dan informasi yang tidak terpusat. Akibatnya mahasiswa kesulitan mendapatkan informasi seputar kampus IPB Dramaga,  sehingga kuliah mereka terganggu dan mahasiswa sulit beradaptasi di kampus IPB.
+
+# User Analysis
+Aplikasi Ibot mempunyai dua jenis pengguna. Pertama adalah pengguna Ibot, yakni mahasiswa baru IPB yang dapat berinteraksi langsung dengan Ibot untuk melihat informasi seputar IPB Dramaga. Pengguna kedua adalah admin yang dapat mengedit dan memperbaharui knowledge base Ibot.
+
+# User Stories
+Sebagai mahasiswa baru IPB Dramaga, saya ingin mengetahui informasi seputar kampus IPB Dramaga, sehingga saya tidak perlu bingung dan membuang banyak waktu untuk mencari informasi yang saya inginkan.
+
+Sebagai mahasiswa baru IPB Dramaga, saya ingin mengetahui informasi seputar lomba dan kegiatan mahasiswa yang ada di IPB Dramaga, sehingga saya dapat mengembangkan minat-bakat saya dengan lebih baik.
+
+Sebagai mahasiswa baru IPB Dramaga, saya ingin mengetahui tata-letak dan tempat-tempat penting di kampus IPB Dramaga, sehingga saya tidak perlu tersesat dan terlambat ke suatu tempat.
