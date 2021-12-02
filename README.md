@@ -6,3 +6,7 @@ Projek MPPL Praktikum 1 Kelompok 9: Expert System - Chatbot Customer Service (Fr
 
 This feature uses "line bot designer" tools to design line message applications
 <a href="https://developers.line.biz/en/services/bot-designer/">Line Bot Designer</a>
+
+## Example iamge:
+![](/images/picture1.png)
+![](/images/picture2.png)
