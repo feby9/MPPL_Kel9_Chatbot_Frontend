@@ -6,7 +6,7 @@
 
 [Navigation](#)
 
-[About This Project](#about) | [Deskripsi Singkat Aplikasi](#deskripsi)
+[About This Project](#about-this-project) | [Deskripsi Singkat Aplikasi](#deskripsi-singkat-aplikasi)
 
 # About This Project
 Projek MPPL Praktikum 1 Kelompok 9: Expert System - Chatbot Customer Service (Frontend)
