@@ -46,3 +46,5 @@ Sebagai mahasiswa baru IPB Dramaga, saya ingin mengetahui informasi seputar kamp
 Sebagai mahasiswa baru IPB Dramaga, saya ingin mengetahui informasi seputar lomba dan kegiatan mahasiswa yang ada di IPB Dramaga, sehingga saya dapat mengembangkan minat-bakat saya dengan lebih baik.
 
 Sebagai mahasiswa baru IPB Dramaga, saya ingin mengetahui tata-letak dan tempat-tempat penting di kampus IPB Dramaga, sehingga saya tidak perlu tersesat dan terlambat ke suatu tempat.
+
+Sebagai calon mahasiswa baru IPB Dramaga, saya ingin mengetahui informasi seputar biaya kuliah dan jurusan S1 di IPB Dramaga, sehingga saya dapat mempersiapkan diri untuk menjalani hidup baru sebagai mahasiswa S1 IPB Dramaga.
