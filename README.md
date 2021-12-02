@@ -1,5 +1,5 @@
 <h1 align = "center">MPPL_Kel9_Chatbot_Frontend</h1>
-<h2 align = "center">Projek Akhir Pengantar Sistem Berorientasi Objek</h2>
+<h2 align = "center">Projek Akhir Manajemen Projek Perangkat Lunak</h2>
 <h2 align = "center">Ibot: IPB Chatbot</h2>
 
 <h1 align="center"><img src="images/Logo_Ibot.png"></h1>
