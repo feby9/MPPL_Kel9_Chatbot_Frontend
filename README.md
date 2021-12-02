@@ -2,7 +2,7 @@
 <h2 align = "center">Projek Akhir Pengantar Sistem Berorientasi Objek</h2>
 <h2 align = "center">Ibot: IPB Chatbot</h2>
 
-<h1 align="center"><img src="img/Logo_Ibot.png"></h1>
+<h1 align="center"><img src="images/Logo_Ibot.png"></h1>
 
 [Navigation](#)
 
@@ -24,7 +24,7 @@ You will need to log in with your LINE account when launching LINE Bot Designer.
 Recommended operating systems: Windows 10 and macOS (Sierra or above).
 Create any type of chatbot you want with LINE Bot Designer.
 
-## Example images:
+## Our Frontend:
 ![](/images/picture1.png)
 ![](/images/picture2.png)
 ![](/images/picture3.png)
