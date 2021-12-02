@@ -24,6 +24,15 @@ You will need to log in with your LINE account when launching LINE Bot Designer.
 Recommended operating systems: Windows 10 and macOS (Sierra or above).
 Create any type of chatbot you want with LINE Bot Designer.
 
+# Developer Beserta Job Desc
+[`^ kembali ke atas ^`](#)
+
+* Ervina Maharani (G64180011) - System Analyst
+* Feby Ardiansyah (G64180059) - Project Manager
+* Muhamad Khoiru Tobi A (G64180065) - Front-End Developer
+* Fransiscus Prihandisha (G64180081) - UI/UX Designer
+* Ahmad Tedy Murtadho (G64180082) - Back-End Developer
+
 # Deskripsi Singkat Aplikasi
 [`^ kembali ke atas ^`](#)
 
@@ -34,10 +43,12 @@ Mahasiswa baru seringkali mengalami kesulitan dalam mencari informasi seputar ka
 
 # User Analysis
 [`^ kembali ke atas ^`](#)
+
 Aplikasi Ibot mempunyai dua jenis pengguna. Pertama adalah pengguna Ibot, yakni mahasiswa baru IPB yang dapat berinteraksi langsung dengan Ibot untuk melihat informasi seputar IPB Dramaga. Pengguna kedua adalah admin yang dapat mengedit dan memperbaharui knowledge base Ibot.
 
 # User Stories
 [`^ kembali ke atas ^`](#)
+
 Sebagai mahasiswa baru IPB Dramaga, saya ingin mengetahui informasi seputar kampus IPB Dramaga, sehingga saya tidak perlu bingung dan membuang banyak waktu untuk mencari informasi yang saya inginkan.
 
 Sebagai mahasiswa baru IPB Dramaga, saya ingin mengetahui informasi seputar lomba dan kegiatan mahasiswa yang ada di IPB Dramaga, sehingga saya dapat mengembangkan minat-bakat saya dengan lebih baik.
@@ -48,6 +59,7 @@ Sebagai calon mahasiswa baru IPB Dramaga, saya ingin mengetahui informasi seputa
 
 # Our Frontend
 [`^ kembali ke atas ^`](#)
+
 ![](/images/picture1.png)
 ![](/images/picture2.png)
 ![](/images/picture3.png)
