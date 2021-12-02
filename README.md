@@ -5,4 +5,4 @@ Projek MPPL Praktikum 1 Kelompok 9: Expert System - Chatbot Customer Service (Fr
 <a href="https://github.com/tobialbertino/MPPL_Kel9_Chatbot_Backend">Backend Repository</a>
 
 This feature uses "line bot designer" tools to design line message applications
-<a href="https://developers.line.biz/en/services/bot-designer/">Backend Repository</a>
+<a href="https://developers.line.biz/en/services/bot-designer/">Line Bot Designer</a>
